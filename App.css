@@ -1,0 +1,40 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: brown;
+  width: 500px;
+  height: 300px;
+  border-radius: 10px;
+
+
+
+
+}
+
+h1 {
+  color: white;
+  text-transform: uppercase;
+
+}
+
+h4 {
+  color: white;
+}
+
+.btn {
+  background: white;
+  color: brown;
+  width: 50px;
+  height: 25px;
+  text-align: center;
+  font-size: 10px;
+
+}
+
+.task-input {
+  background-color: white;
+  color: brown;
+}
+
